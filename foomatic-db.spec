@@ -1,5 +1,5 @@
 Name:		foomatic-db-nonfree
-Version:	20150415
+Version:	20150819
 Release:	1
 Summary:	Foomatic database extensions
 License:	GPLv2 and MIT
