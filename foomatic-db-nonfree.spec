@@ -96,3 +96,5 @@ done
 %files
 %{_datadir}/foomatic/db/source/driver/*.xml
 %{_datadir}/foomatic/db/source/PPD/*
+%{_libdir}/cups/backend/beh
+%{_libdir}/cups/filter/foomatic-rip
