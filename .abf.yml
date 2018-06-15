@@ -1,3 +1,5 @@
+removed_sources:
+  foomatic-db-nonfree-20160314.tar.gz: 02fa3beb1c8aae758bea45e65d6d016bea9e67e2
 sources:
-  "cleanppd.pl.bz2": 893a7babf834e5e1d928739f90784a3b9651c527
-  "foomatic-db-nonfree-20160314.tar.gz": 02fa3beb1c8aae758bea45e65d6d016bea9e67e2
+  cleanppd.pl.bz2: 893a7babf834e5e1d928739f90784a3b9651c527
+  foomatic-db-nonfree-20180615.tar.gz: e15519f5b4231aa043c5f0b6fdec4c18939e24bf
