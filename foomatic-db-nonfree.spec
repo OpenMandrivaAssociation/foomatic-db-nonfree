@@ -4,7 +4,7 @@ Release:	1
 Summary:	Foomatic database extensions
 License:	GPLv2 and MIT
 Group:		System/Servers
-Url:		http://www.linuxprinting.org/
+Url:		https://www.linuxprinting.org/
 Source0:	http://www.linuxprinting.org/download/foomatic/%{name}-%{version}.tar.gz
 # Perl script to clean up Manufacturer entries in the PPD files, so that
 # drivers are sorted by the printer manufacturer in the graphical frontends
